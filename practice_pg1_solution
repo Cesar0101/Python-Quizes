@@ -1,6 +1,9 @@
 #1 Solution
-#4
 a = [4,7,3,2,5,9]
 for i in a:
     f = a.index(i)
     print('{}, {}'.format(f,i))  #learn to use the (.format) to style your output. Anything in the quotes (' ') will be formatted to your needs. 
+    
+    
+#2 Solution
+[9,10,3,4]   # Sets do not contain duplicate values and are unsorted.
