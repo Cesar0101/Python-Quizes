@@ -1,0 +1,10 @@
+#1
+#Write a for loop that prints all elements of a list and their position in the list. Hint: Use Loop to iterate through list elements.
+
+a = [4,7,3,2,5,9] 
+
+#2
+#What does this code print out?  Hint: understand the different data types ex. Dict, Lists...
+
+nums = set([9,9,10,10,3,3,3,4,4])
+print(len(nums))
