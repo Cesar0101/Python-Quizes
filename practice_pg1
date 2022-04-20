@@ -1,5 +1,5 @@
 #1
-#Write a for loop that prints all elements of a list and their position in the list. Hint: Use Loop to iterate through list elements.
+#Write a for loop that prints all elements of a list AND their position in the list. Hint: Use Loop to iterate through list elements.
 
 a = [4,7,3,2,5,9] 
 
