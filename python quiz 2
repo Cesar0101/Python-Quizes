@@ -1,0 +1,41 @@
+squares = [x**2 for x in range(10) if x % 2 == 0]
+a) Generates a list of squares for even numbers from 0 to 9
+b) Generates a list of squares for all numbers from 0 to 9
+c) Generates a list of even numbers squared from 0 to 9
+d) Raises an error
+
+Question 2: Decorators
+
+What is the primary purpose of a Python decorator?
+
+a) To extend the functionality of a function or method
+b) To add comments to a function
+c) To create a new variable within a function
+d) To remove a function from the code
+
+Question 3: Context Managers
+
+Which keyword is used to define a context manager in Python?
+
+a) context
+b) manager
+c) with
+d) as
+
+Question 4: Inheritance
+
+In Python, what is the method called when a child class method is named the same as a method in the parent class?
+
+a) Overriding
+b) Overloading
+c) Inheriting
+d) Extending
+
+Question 5: File Handling
+
+How do you open a file named "example.txt" in write mode and create it if it doesn't exist?
+
+a) file = open("example.txt", "w")
+b) file = open("example.txt", "r")
+c) file = open("example.txt", "a")
+d) file = open("example.txt", "x")
